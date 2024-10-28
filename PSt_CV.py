@@ -160,7 +160,7 @@ def convert_pessession_to_text(folder_path):
             continue
 
 # Specify the folder containing PSSESSION files
-folder_path = r"C:\Users\Daniel.Carroll\Desktop\Script Training"
+folder_path = r"YOUR_PATH_HERE"
 print("Starting PSSESSION file conversion...")
 convert_pessession_to_text(folder_path)
 print("Conversion complete!")
